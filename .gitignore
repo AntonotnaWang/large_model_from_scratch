@@ -1,0 +1,7 @@
+# Dataset (auto-downloaded by the notebook on first run)
+data/
+
+# Jupyter / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
